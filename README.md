@@ -6,14 +6,14 @@
 type nul > README.md
 ```
 
-## Day1
+## Day1 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day1/index.html)
 
-## Day2
+## Day2 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day2/index.html)
 
-## Day3
+## Day3 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day3/index.html)
 
-## Day4
+## Day4 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day4/index.html)
 
-## Day5
+## Day5 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day5/index.html)
 
 [this.parentElement](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day5)
