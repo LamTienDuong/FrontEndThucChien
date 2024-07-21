@@ -1,5 +1,11 @@
 # FrontEnd Thực chiến
 
+## Tạo file readmi.md 
+
+```bash
+type nul > README.md
+```
+
 ## Day1
 
 ## Day2
