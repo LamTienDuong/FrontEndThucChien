@@ -1,6 +1,6 @@
 # FrontEnd Thực chiến
 
-## Tạo file readmi.md 
+## Tạo file README.md 
 
 ```bash
 type nul > README.md
