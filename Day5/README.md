@@ -5,6 +5,7 @@
 Trong hàm addEventListener để sử dụng từ khóa this bắt buộc function phải được ghi đầy đủ. Không được viết dưới dạng arrow function (Lúc này không thể sử dụng từ khóa this)
 
 this.parentElement -> Lấy ra phần tử cha của phần tử hiện tại
+
 this.previousElementSibling -> Lấy ra phần tử trước đó trong cây HTML
 
 ```python
