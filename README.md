@@ -24,3 +24,6 @@ type nul > README.md
 [this.parentElement](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day5)
 
 [this.previousElementSibling](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day5)
+
+## Day6
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day6/index.html)
