@@ -29,7 +29,7 @@ type nul > README.md
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day6/index.html)
 
 ## Day7
-[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day6/index.html)
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day7/index.html)
 
 [Xóa phần tử trong mảng js](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
 
