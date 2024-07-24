@@ -34,3 +34,5 @@ type nul > README.md
 [Xóa phần tử trong mảng js](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
 
 [Lưu ý khi căn chỉnh phần tử theo flex](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
+
+[Thêm phần tử con vào phần tử cha](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
