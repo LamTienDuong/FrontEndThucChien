@@ -27,3 +27,10 @@ type nul > README.md
 
 ## Day6
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day6/index.html)
+
+## Day7
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day6/index.html)
+
+[Xóa phần tử trong mảng js](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
+
+[Lưu ý khi căn chỉnh phần tử theo flex](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
