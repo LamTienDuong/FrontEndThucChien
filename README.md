@@ -36,3 +36,10 @@ type nul > README.md
 [Lưu ý khi căn chỉnh phần tử theo flex](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
 
 [Thêm phần tử con vào phần tử cha](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day7)
+
+## Day8
+
+[focus ~ phần tử cần thay đổi css](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day8)
+
+[ngăn không cho load trang khi submit form](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day8)
+
