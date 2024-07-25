@@ -39,6 +39,8 @@ type nul > README.md
 
 ## Day8
 
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day8/index.html)
+
 [focus ~ phần tử cần thay đổi css](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day8)
 
 [ngăn không cho load trang khi submit form](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day8)
