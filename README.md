@@ -47,5 +47,5 @@ type nul > README.md
 
 ## Day9
 
-[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day8/index.html)
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day9/index.html)
 
