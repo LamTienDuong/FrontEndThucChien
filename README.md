@@ -45,3 +45,7 @@ type nul > README.md
 
 [ngăn không cho load trang khi submit form](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day8)
 
+## Day9
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day8/index.html)
+
