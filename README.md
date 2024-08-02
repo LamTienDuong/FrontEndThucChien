@@ -49,3 +49,24 @@ type nul > README.md
 
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day9/index.html)
 
+## Day10
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day10/index.html)
+
+[thể thể hiện dấu (...)](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Thêm class vào một element ](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Xóa phần tử cha](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Lấy ra đoạn text đặt trong thẻ](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Lấy class của element](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Lưu đối tượng vào localStorage](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+[Lấy ra đối tượng trong localStorage ](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
+
+
+
+
