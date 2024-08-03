@@ -77,6 +77,12 @@ type nul > README.md
 
 [Lấy phần thử HTML bằng innerHTML](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day11)
 
+## Day12
 
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day12/index.html)
+
+[Vị trí của phần tử hiện tái so với bên trái màn hình](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day12)
+
+[Vị trí trỏ chuột hiện tại so với trục X của màn hình](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day12)
 
 
