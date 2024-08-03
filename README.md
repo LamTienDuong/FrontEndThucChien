@@ -67,6 +67,16 @@ type nul > README.md
 
 [Lấy ra đối tượng trong localStorage ](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day10)
 
+## Day11
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day11/index.html)
+
+[Xóa phần tử HTML](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day11)
+
+[Thêm phần tử con](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day11)
+
+[Lấy phần thử HTML bằng innerHTML](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day11)
+
 
 
 
