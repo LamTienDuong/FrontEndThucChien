@@ -86,3 +86,9 @@ type nul > README.md
 [Vị trí trỏ chuột hiện tại so với trục X của màn hình](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day12)
 
 
+## Day13
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day12/index.html)
+
+
+
+
