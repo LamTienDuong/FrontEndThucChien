@@ -99,6 +99,10 @@ type nul > README.md
 
 [Các bước load file theo BASE64](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
 
+## Day14
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day14/index.html)
+
 
 
 
