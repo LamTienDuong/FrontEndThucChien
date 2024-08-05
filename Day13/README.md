@@ -2,7 +2,6 @@
 
 Sử dụng hidden để ẩn đi thẻ input. Đồng thời dùng label để có thể click vào thẻ input khi nó ẩn đi.\
 Thêm multiple mới có thể cho phép tải lên nhiều ảnh cùng lúc. 
-
 ```python
 <label for="mypicture" class="preview">
     <i class="fas fa-cloud-upload-alt"></i>
