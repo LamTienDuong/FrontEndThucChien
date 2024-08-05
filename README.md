@@ -87,7 +87,19 @@ type nul > README.md
 
 
 ## Day13
-[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day12/index.html)
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day13/index.html)
+
+[Ẩn thẻ input và cho phép tải lên nhiểu ảnh](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
+
+[Lấy giá trị file](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
+
+[So sánh kí tự kết thúc chuỗi](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
+
+[Lấy kích thước file](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
+
+[Các bước load file theo BASE64](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day13)
+
+
 
 
 
