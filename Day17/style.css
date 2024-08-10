@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+    font-family: sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #3b6db8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.counter {
+    padding: 20px 40px;
+    font-size: 40px;
+    color: white;
+    background: #b83b9b;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin: 0 20px;
+    border-radius: 10px;
+}
+
+.counter h1 {
+    font-size: 18px;
+    margin-bottom: 15px;
+}

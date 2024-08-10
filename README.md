@@ -113,5 +113,9 @@ type nul > README.md
 
 [Lấy thuộc tính của đối tượng so vs screen](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day16)
 
+## Day17
 
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day17/index.html)
+
+[Hàm lặp lại hành động sau 1 khoảng thời gian](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day17)
 
