@@ -107,6 +107,11 @@ type nul > README.md
 
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day15/index.html)
 
+## Day16
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day16/index.html)
+
+[Lấy thuộc tính của đối tượng so vs screen](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day16)
 
 
 
