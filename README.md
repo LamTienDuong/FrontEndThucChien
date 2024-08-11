@@ -119,3 +119,10 @@ type nul > README.md
 
 [Hàm lặp lại hành động sau 1 khoảng thời gian](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day17)
 
+## Day18
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day18/index.html)
+
+[Sự kiện kéo thả dragover](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day18)
+
+
