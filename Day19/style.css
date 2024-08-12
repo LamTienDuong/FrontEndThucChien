@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100vh;
+}
+
+.tool {
+    background: rgb(98, 98, 175);
+    display: flex;
+    align-items: center;
+}
+
+.tool > * {
+    height: 40px;
+    width: 40px;
+    background: white;
+    margin: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+#save {
+    margin-left: auto;
+}
+
+canvas {
+    border: 1px solid black;
+    margin: auto;
+    display: block;
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" stroke="%23000000" fill="%23000000" width="20px" height="20px" viewBox="0 0 10.04 10.04"><circle cx="5.02" cy="5.02" r="4.52"/></svg>') 10 10, auto;
+}
+
+#save {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+

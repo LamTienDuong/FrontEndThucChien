@@ -125,4 +125,8 @@ type nul > README.md
 
 [Sự kiện kéo thả dragover](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day18)
 
+## Day19
 
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day19/index.html)
+
+[Tạo button tải xuống hình ảnh trên chrome](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day19)
