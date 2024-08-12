@@ -141,3 +141,6 @@ type nul > README.md
 
 [Tạo bước nhảy trong 1 animation](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day20)
 
+## Day21
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day21/index.html)

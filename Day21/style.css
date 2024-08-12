@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+    transition: 0.5s;
+}
+
+body {
+    --primary-color: rgb(65, 65, 157);
+    --background-color: #eee;
+    --background-box: #dadada;
+    --color-box: #3b3b3b;
+    height: 100vh;
+    background: var(--background-color);
+    font-family: sans-serif;
+}
+
+body.dark {
+    --primary-color: rgb(97, 190, 97);
+    --background-color: #2d2c2d;
+    --background-box: #3b3b3b;
+    --color-box: #f6f0f0;
+    background: var(--background-color);
+}
+
+.container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 40px;
+    color: var(--primary-color);
+    text-align: center;
+}
+
+h1.title {
+    margin-top: 50px;
+}
+
+.lst-btn {
+    display: flex;
+    justify-content: space-between;
+}
+
+.box p {
+    color: var(--color-box);
+    margin: 20px 0;
+    background: var(--background-box);
+    padding: 40px 20px;
+    border-radius: 10px;
+}
+
+.lst-btn button {
+    padding: 10px 20px;
+    color: var(--color-box);
+    border-radius: 5px;
+    background: var(--primary-color);
+    border: none;
+    outline: none;
+}
+
+.switch-wp {
+    background: var(--background-box);
+    width: 80px;
+    border-radius: 20px;
+}
+
+.switch-wp label {
+    background: white;
+    display: block;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    transition: 0.5s;
+}
+
+.switch-wp input:checked + label {
+    margin-left: 80px;
+    transform: translateX(-100%);
+}
+
+.dark {
+    color: blue;
+}
