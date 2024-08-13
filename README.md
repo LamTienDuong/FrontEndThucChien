@@ -152,3 +152,22 @@ type nul > README.md
 [Căn chỉnh hình ảnh trong div](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day22)
 
 [Thêm class active vào button](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day22)
+
+## Day23
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day23/index.html)
+
+[Lấy thuộc tính css bằng JS](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+[Lưu ý khi sử dụng sự kiện liên quan đến con trỏ chuột](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+[Cách viết thuộc tính css trong JS](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+[Giải thích 1 chút về đoạn code tạo gương phóng to img](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+[Lưu ý khi thay đổi background bằng JS](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+[thay đổi con trỏ chuột](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
+
+
+
