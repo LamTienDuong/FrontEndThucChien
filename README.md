@@ -144,3 +144,11 @@ type nul > README.md
 ## Day21
 
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day21/index.html)
+
+## Day22
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day22/index.html)
+
+[Căn chỉnh hình ảnh trong div](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day22)
+
+[Thêm class active vào button](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day22)
