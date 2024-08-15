@@ -169,5 +169,14 @@ type nul > README.md
 
 [thay đổi con trỏ chuột](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day23)
 
+## Day25
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day26/index.html)
+
+[Lưu ý khi sử dụng function không có tham số](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day26)
+
+
+
+
 
 
