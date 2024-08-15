@@ -181,7 +181,9 @@ type nul > README.md
 
 [Hiệu ứng xoay tròn css](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day26)
 
+## Day27
 
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day27/index.html)
 
 
 

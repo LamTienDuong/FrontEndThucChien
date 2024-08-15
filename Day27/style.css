@@ -1,0 +1,135 @@
+:root {
+    --facebook: #3b5999;
+    --insta: #e1306c;
+    --youtube: #de463b;
+    --twitter: #46c1f6;
+    --github: #333;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: #dadada;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 30%;
+}
+
+.icon {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    background: white;
+    font-size: 25px;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+.tooltip {
+    position: absolute;
+    background: rgb(239, 237, 237);
+    height: 50px;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    opacity: 0;
+    transition: all 0.5s;
+    top: 0;
+    pointer-events: none;
+}
+
+.tooltip::before {
+    content: '';
+    display: block;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    background: rgb(235, 232, 232);
+    transform: translate(-50%, 50%) rotate(45deg);
+}
+
+.icon:hover .tooltip{
+    top: -70px;
+    opacity: 1;
+}
+
+.facebook:hover {
+    background: var(--facebook);
+    color: white;
+}
+
+.facebook:hover .tooltip {
+    background: var(--facebook);
+}
+
+.facebook .tooltip::before {
+    background: var(--facebook);
+}
+
+
+.insta:hover {
+    background: var(--insta);
+    color: white;
+}
+
+.insta:hover .tooltip {
+    background: var(--insta);
+}
+
+.insta .tooltip::before {
+    background: var(--insta);
+}
+
+.youtube:hover {
+    background: var(--youtube);
+    color: white;
+}
+
+.youtube:hover .tooltip {
+    background: var(--youtube);
+}
+
+.youtube .tooltip::before {
+    background: var(--youtube);
+}
+
+.twitter:hover {
+    background: var(--twitter);
+    color: white;
+}
+
+.twitter:hover .tooltip {
+    background: var(--twitter);
+}
+
+.twitter .tooltip::before {
+    background: var(--twitter);
+}
+
+.github:hover {
+    background: var(--github);
+    color: white;
+}
+
+.github:hover .tooltip {
+    background: var(--github);
+}
+
+.github .tooltip::before {
+    background: var(--github);
+}
+
+
