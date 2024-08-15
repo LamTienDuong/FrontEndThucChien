@@ -171,9 +171,9 @@ type nul > README.md
 
 ## Day25
 
-[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day26/index.html)
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day25/index.html)
 
-[Lưu ý khi sử dụng function không có tham số](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day26)
+[Lưu ý khi sử dụng function không có tham số](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day25)
 
 
 
