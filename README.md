@@ -175,6 +175,11 @@ type nul > README.md
 
 [Lưu ý khi sử dụng function không có tham số](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day25)
 
+## Day26
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day26/index.html)
+
+[Hiệu ứng xoay tròn css](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day26)
 
 
 
