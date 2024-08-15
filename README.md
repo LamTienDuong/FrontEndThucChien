@@ -185,5 +185,10 @@ type nul > README.md
 
 [chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day27/index.html)
 
+## Day28
+
+[chuyển hướng](https://lamtienduong.github.io/FrontEndThucChien/Day28/index.html)
+
+[Hình ảnh khi load lên quá kích thước với thẻ div](https://github.com/LamTienDuong/FrontEndThucChien/tree/main/Day28)
 
 
